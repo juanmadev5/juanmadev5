@@ -1,6 +1,6 @@
-# Hi there,  I'm Juan Manuel 👋
+# Hi there,  I'm JM Dev 👋
 
-📱💻 I'm an Android developer and Web developer </>
+📱💻 I'm an Android and Web developer </>
 I like to code in my free times, I can learn any programming language, doesn't matter what is.
 
 ## Proyects
