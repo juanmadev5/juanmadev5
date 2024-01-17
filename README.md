@@ -1,6 +1,6 @@
 # Hi there,  I'm JM Dev 👋
 
-📱💻 I'm an Android and Web developer </>
+📱💻 I'm an Android and Web developer from Paraguay 🇵🇾 </>
 I like to code in my free times, I can learn any programming language, doesn't matter what is.
 
 ## Proyects
