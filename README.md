@@ -4,7 +4,7 @@
 ## Proyects 📘
 
 #### Web
-- [My portfolio](https://github.com/juanmadev5/me)
+- 🧔 [Me](https://github.com/juanmadev5/me)
 
 #### Android
 - 🖼️ [Imagify](https://github.com/juanmadev5/Imagify)
