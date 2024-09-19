@@ -1,4 +1,4 @@
-## 📱💻 Android Developer
+## 📱Android Developer
 ## Currently focused to be a full stack web developer 💡
 
 ## Proyects 📘
