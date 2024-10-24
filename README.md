@@ -5,6 +5,7 @@
 
 #### Web
 - 🧔 [Me](https://github.com/juanmadev5/me)
+- 📓 [Express Task+](https://github.com/juanmadev5/express-task-plus)
 
 #### Android
 - 🖼️ [Imagify](https://github.com/juanmadev5/Imagify)
@@ -14,7 +15,8 @@
 
 #### Flutter
 - 📱 [OnePieceAPIExample](https://github.com/juanmadev5/onepieceapiexample)
+- 📱 [Random Words](https://github.com/juanmadev5/flutter-random-words)
 
 ## Contact with me
-- 📧 juanma261005@gmail.com
+- 📧 itzjuanmadev@proton.me
 - 🔗 [LinkedIn](www.linkedin.com/in/juan-manuel-velázquez-ba8a342ba)
