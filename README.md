@@ -1,4 +1,4 @@
-## 📱🌎 Android and Web Full Stack Developer
+## 📱🌎 Android and Web Developer
 
 ## Proyects 📘
 
