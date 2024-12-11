@@ -7,6 +7,10 @@
 - 📓 [Express Task+](https://github.com/juanmadev5/express-task-plus)
 - 🗒️ [LearnWithMe](https://github.com/juanmadev5/learn-with-me)
 
+#### APIs
+- 🌎 [Inventory System API](https://github.com/juanmadev5/inventory-system-api)
+- 🌎 [Random Info API](https://github.com/juanmadev5/randominfo)
+
 #### Android
 - 🖼️ [Imagify](https://github.com/juanmadev5/Imagify)
 - 📑 [ToDoExpress](https://github.com/juanmadev5/ToDoExpress)
