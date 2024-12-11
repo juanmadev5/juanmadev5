@@ -8,8 +8,8 @@
 - 🗒️ [LearnWithMe](https://github.com/juanmadev5/learn-with-me)
 
 #### APIs
-- 🌎 [Inventory System API](https://github.com/juanmadev5/inventory-system-api)
-- 🌎 [Random Info API](https://github.com/juanmadev5/randominfo)
+- 🌎 [Simple Inventory System](https://github.com/juanmadev5/inventory-system-api)
+- 🌎 [Random Info](https://github.com/juanmadev5/randominfo)
 
 #### Android
 - 🖼️ [Imagify](https://github.com/juanmadev5/Imagify)
