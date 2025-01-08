@@ -2,10 +2,10 @@
 
 ## Proyects 📘
 
-#### Mini Proyects 🚀
-Repository where I publish little projects in different programming languages and some algorithms that could be useful.
+#### CodeCollection 🚀
+Repository where I publish code in different programming languages that could be useful for learn or solve a problem.
 
-Go to the repo -> [Here](https://github.com/juanmadev5/Mini-Proyects)
+Go to the repo -> [Here](https://github.com/juanmadev5/CodeCollection)
 
 #### Web
 - 🧔 [Me](https://github.com/juanmadev5/me)
