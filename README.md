@@ -2,6 +2,10 @@
 
 ## Proyects 📘
 
+#### Mini Proyects
+Repositorio donde voy publicando pequeños proyectos en diferentes lenguajes de programación, también algunos algoritmos que pueden ser útiles.
+Puedes verlos [Aquí](https://github.com/juanmadev5/Mini-Proyects) <-
+
 #### Web
 - 🧔 [Me](https://github.com/juanmadev5/me)
 - 📓 [Express Task+](https://github.com/juanmadev5/express-task-plus)
