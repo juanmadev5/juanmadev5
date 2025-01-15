@@ -1,4 +1,4 @@
-## 📱🌎 Android and Web Developer
+## 📱🌎 Android and Web Frontend Developer
 
 <div>
     <img src="assets/ic-compose.webp" width="24" height="24" />
