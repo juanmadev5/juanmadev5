@@ -11,7 +11,7 @@
     <img src="assets/ic-python.webp" width="24" height="24" />
 </div>
 
-## Proyects 📘
+## Top Proyects ⭐
 
 #### CodeCollection 🚀
 Repository where I publish code in different programming languages that could be useful for learn or solve a problem.
