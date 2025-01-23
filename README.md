@@ -3,7 +3,6 @@
 <div>
     <img src="assets/ic-compose.webp" width="24" height="24" />
     <img src="assets/ic-kotlin.webp" width="24" height="24" />
-    <img src="assets/ic-ktor.webp" width="24" height="24" />
     <img src="assets/ic-react.webp" width="24" height="24" />
     <img src="assets/ic-astro.webp" width="24" height="24" />
     <img src="assets/ic-tailwindcss.webp" width="24" height="24" />
