@@ -27,4 +27,4 @@ Go to the repo -> [Here](https://github.com/juanmadev5/CodeCollection)
 
 ## Contact with me
 - 📧 itzjuanmadev@proton.me
-- 🔗 [LinkedIn](www.linkedin.com/in/juan-manuel-velázquez-ba8a342ba)
+- 🔗 [LinkedIn](https://linkedin.com/in/juan-manuel-velázquez-ba8a342ba)
