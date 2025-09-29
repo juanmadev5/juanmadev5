@@ -27,7 +27,7 @@ Adicionalmente, tengo experiencia en desarrollo móvil con **Jetpack Compose (An
 </p>
 
 > **Habilidades Clave:**  
-> `TailwindCSS` • `React` • `Node.js (Nativo)` • `REST APIs` • `Android Jetpack Compose`
+> `HTML` • `TailwindCSS` • `Android Jetpack Compose`
 
 ---
 
