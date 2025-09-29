@@ -23,7 +23,7 @@ Adicionalmente, tengo experiencia en desarrollo móvil con **Jetpack Compose (An
 ## 🛠️ Stack de Tecnologías
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,cs,python,html,css,js,react,tailwindcss,nodejs,supabase" alt="Stack Tecnológico" />
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,cs,python,html,react,tailwindcss,nodejs,supabase" alt="Stack Tecnológico" />
 </p>
 
 > **Habilidades Clave:**  
