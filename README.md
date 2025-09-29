@@ -14,7 +14,7 @@ Mi enfoque principal está en el desarrollo **frontend** con **TailwindCSS** y *
 Adicionalmente, tengo experiencia en desarrollo móvil con **Jetpack Compose (Android)**.
 
 * 🔭 Actualmente estoy trabajando en: Combinar mis habilidades de desarrollo y soporte en un entorno desafiante.
-* 🌱 Siempre aprendiendo: A optimizar servicios backend con Node.js y a profundizar en ASP.NET Core.
+* 🌱 Siempre aprendiendo: A optimizar servicios backend con Node.js y a profundizar en él.
 * 💬 Pregúntame sobre: Desarrollo frontend con React, diseño responsivo, servicios HTTP nativos en Node.js o reparación de hardware.
 * ⚡ Dato clave: Poseo amplia experiencia en soporte técnico, reparación y mantenimiento de equipos informáticos.
 
