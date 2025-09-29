@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.perfectcorp.com/es/consumer/blog/photo-editing/crear-avatar-con-fotos" alt="Juan Manuel Velázquez Almirón" width="150" style="border-radius:50%;"/>
+  <img src="https://avatars.githubusercontent.com/u/115042535?s=400&u=62a596cea79ad50f38ed1e841b021acae7b7b79a&v=4" alt="Juan Manuel Velázquez Almirón" width="150" style="border-radius:50%;"/>
   <h1>👋 Hola, soy Juan Manuel</h1>
   <h3>💻 Técnico Informático | Desarrollador Web</h3>
 </div>
