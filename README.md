@@ -55,4 +55,4 @@ Mi enfoque principal está en el desarrollo **Android** con **Jetpack Compose**,
 | :---: | :--- |
 | 💼 **LinkedIn** | [/in/jmdev365](https://www.linkedin.com/in/jmdev365) |
 | 🌐 **Portafolio** | [juanmadev5.dev](https://juanmadev5.dev) |
-| 📧 **Email** | [itzjuanmadev@proton.me](mailto:itzjuanmadev@proton.me) |
+| 📧 **Email** | [juanma261005@gmail.com](mailto:juanma261005@gmail.com) |
