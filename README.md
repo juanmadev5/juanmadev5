@@ -20,7 +20,7 @@ Mi enfoque principal está en el desarrollo **Android** con **Jetpack Compose**,
 ## 🛠️ Stack de Tecnologías
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,html,tailwindcss,nodejs,supabase,firebase,cs" alt="Stack Tecnológico" />
+  <img src="https://skillicons.dev/icons?i=kotlin,dart,html,tailwindcss,nodejs,supabase,firebase,cs" alt="Stack Tecnológico" />
 </p>
 
 > **Habilidades Clave:**  
